@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pinionli
 - 👀 I’m interested in coding
 - 🌱 I’m currently study in CCU
-- 📫 pinionli.b@gmail.com
+- 📫 Email: pinionli.b@gmail.com
 
 <!---
 pinionli/pinionli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
